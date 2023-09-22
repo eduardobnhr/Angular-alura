@@ -6,8 +6,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./criar-pensamentos.component.css']
 })
 export class CriarPensamentosComponent implements OnInit{
+  pensamento = {
+    id: '1',
+    conteudo: 'aprendendo angular',
+    autoria: 'Dev',
+    modelo: ''
+  }
   constructor(){}
-  
+
   ngOnInit(): void {
 
   }
