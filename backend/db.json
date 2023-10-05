@@ -1,0 +1,22 @@
+{
+  "pensamento": [
+    {
+      "id": 3,
+      "conteudo": "que bom que voce veio",
+      "autoria": "edu",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 2,
+      "conteudo": "teste de db",
+      "autoria": "Dev alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "teste de dados",
+      "autoria": "edux",
+      "modelo": "modelo1"
+    }
+  ]
+}
